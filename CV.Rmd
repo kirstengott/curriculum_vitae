@@ -70,7 +70,9 @@ Line/Lab Assitant,  Zebrafish International Resource Center \hfill 2010 - 2013
 
 \begin{hangparas}{.25in}{1}
 
- Francoeur, C. B., Khadempour, L., Moreira-Soto, R.D., \textbf{Gotting, K.}, Book, A.J., Pinto-Tomás, A.A., Keefover-Ring, K., and Currie, C.R. "Bacteria contribute to plant secondary compound degradation in a generalist herbivore system." \textit{mBio} (2020): 865212. In Review
+\textbf{Gotting, K.}, May, D. S., Khadempour, L., Berasategui Lopez, A., Viaurre Montoya, Q., Sandstrom, S., Carlson, C., Schultz, T., Rodriguez, A., Tallerico Pupo, M., Bugni, T., Gerardo, N. M., Currie, C. R. “Genomic Diversification of the Parasite Escovopsis across the Evolutionary History of the Attine Ant-Microbe Symbiosis.” \textit{In Prep}.
+
+Francoeur, C. B., Khadempour, L., Moreira-Soto, R.D., \textbf{Gotting, K.}, Book, A.J., Pinto-Tomás, A.A., Keefover-Ring, K., and Currie, C.R. "Bacteria contribute to plant secondary compound degradation in a generalist herbivore system." \textit{mBio} (2020): 865212.
 
 
 Klocko, A.D., Summers, C.A., Glover, M.L., Parrish, R., Storck, W.K., McNaught, K.J., Moss, N., \textbf{Gotting, K.}, Stewart, A., Marrison, A.M., Payne, L., Hatakeyama, S., Selker, E.U. (2020) "Selection and characterization of mutants defective in DNA methylation in \textit{Neurospora crassa}." \textit{Genetics}.
