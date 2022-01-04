@@ -1,43 +1,31 @@
 ---
-output: stevetemplates::cv
-geometry: margin=1in
-
+date: "2022-01-04"
+email: gotting@wisc.edu
 title: "CV"
 author: Kirsten Gotting
-
-# jobtitle: "Chief Brewer, Arthur Guinness & Son"
-# address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
-fontawesome: yes
-email: gotting@wisc.edu
-github: kirstengott
-# twitter: stevenvmiller
-#osf: "Enter 5 digit osf string here"
-# phone: "+353 1 408 4800"
+github: https://github.com/kirstengott
+#phone: "971-221-3367"
 web: kirstengotting.com
-#updated: TRUE
-#rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
-
-#keywords: R Markdown, academic CV, template
-
+output: 
+  pdf_document:
+    template: svm-r-markdown-templates/svm-latex-cv.tex
+fontsize: 11pt
+geometry: margin=1in
+mainfont: 14pt
 fontfamily: arev
 #fontfamilyoptions: sc, osf
-fontsize: 11pt
-mainfont: 14pt
 linkcolor: blue
 urlcolor: blue
+bibliography:
 header-includes:
    - \usepackage{hanging}
    - \usepackage{setspace}\singlespacing
+
 ---
-
-
-
 
 \linespread{1.0}
 
 # Education
-
-Ph.D. Genetics, University of Wisconsin Madison, Laboratory of Genetics \hfill 2022
 
 M.S. Genetics, University of Wisconsin Madison, Laboratory of Genetics \hfill 2019
 
@@ -48,7 +36,7 @@ B.A. Biology, University of Oregon, Department of Biology \hfill 2013
 
 # Experience  
 
-Pre-doctoral Fellow, Wcislo Lab, Smithsonian Tropical Research Institute \hfill 2021 - Present
+Pre-doctoral Fellow, Wcislo Lab, Smithsonian Institute for Tropical Research \hfill 2021 - Present
 
 - Designed, funded, and led a grant to study fungal parasites of fungus-growing ants in the Panamanian rain forest.
 
@@ -163,8 +151,6 @@ University of Wisconsin Madison Genetics Schlimgen Award \hfill 2020
 
 - Nat Zeng \hfill Spring 2021 - Present 
 
-- Lynne Harrow \hfill Spring 2020 - Fall 2020
-
 - Soleil Young \hfill Spring 2019 - Present
 
 - Hezekiah Gilles \hfill Fall 2019 - Fall 2020
@@ -244,7 +230,7 @@ North American Planarian Meeting \hfill 2015
 
 ## The University of Wisconsin Madison
 
-\textbf{Genomic diversification of the parasite \textit{Escovopsis} across the evolutionary history of the fungus-growing ant-microbe symbiosis}
+Genomic diversification of the parasite \textit{Escovopsis} across the evolutionary history of the fungus-growing ant-microbe symbiosis
 
 - Smithsonian Tropical Reserch Institute  Tupper Talks \textbf{Talk} \hfill 2022  
 
@@ -320,40 +306,40 @@ North American Planarian Meeting \hfill 2015
 
 # References 
 
-## Cameron R. Currie 
+Cameron R. Currie 
 
-- Ira L. Baldwin Professor of Bacteriology, University of Wisconsin Madison
+Ira L. Baldwin Professor of Bacteriology, University of Wisconsin Madison
 
-- Microbial Sciences, 1550 Linden Drive, Room 5207, Madison, WI 53706
+Microbial Sciences, 1550 Linden Drive, Room 5207, Madison, WI 53706
 
-- Tel: (608) 265-8034
+Tel: (608) 265-8034
 
-- Email: currie@bact.wisc.edu
+Email: currie@bact.wisc.edu
 
-## Anne Pringle
+Anne Pringle
 
-- Mary Herman Rubinstein and Vilas Distinguished Achievement Professor of Botany, University of Wisconsin Madison
-  
-- 132 Birge Hall, 430 Lincoln Drive, Birge Hall B115, Madison, WI 53706
-  
-- Tel: (608) 890-4364
-  
-- Email: anne.pringle@wisc.edu
+Mary Herman Rubinstein and Vilas Distinguished Achievement Professor of Botany, University of Wisconsin Madison
 
+132 Birge Hall, 430 Lincoln Drive, Birge Hall B115, Madison, WI 53706
 
-## Alejandro Sánchez Alvarado
+Tel: (608) 890-4364
 
-- Executive Director and Chief Scientific Officer, The Stowers Institute for Medical Research
-  
-- Howard Hughes Medical Institute Investigator
-  
-- Faculty, The Graduate School of the Stowers Institute for Medical Research
-  
-- 1000 E 50 St. Kansas City, MO 64110
-  
-- Tel: (816) 926-4530
-  
-- Email: asa@stowers.org
+Email: anne.pringle@wisc.edu
+
+Alejandro Sánchez Alvarado
+
+Executive Director and Chief Scientific Officer, The Stowers Institute for Medical Research
+
+Howard Hughes Medical Institute Investigator
+
+Faculty, The Graduate School of the Stowers
+Institute for Medical Research
+
+1000 E 50 St. Kansas City, MO 64110
+
+Tel: (816) 926-4530
+
+Email: asa@stowers.org
 
 
 
